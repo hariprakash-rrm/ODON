@@ -1,0 +1,969 @@
+{
+  "manifestVersion": "3.2",
+  "admin": {
+    "address": "0xfccAC2A2Fc7bA5A5787A0fc8eA99A3A81dC3b56f",
+    "txHash": "0x1fc7adc2ff8fa95b35605200a4fb536e94eb4e11da980e2d4400ec1c817c0bdf"
+  },
+  "proxies": [
+    {
+      "address": "0x54301580c3201DCb5069AAcdd73616A49ed95D94",
+      "txHash": "0x7a8157cc9c137b02e526d5decf79b95dfbf51a2a7cdc0d93cd4499152e88abb0",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4A7146e46532EE52145b3E1cb80CcE1120F7243f",
+      "txHash": "0x3d4f1969cc9fc3f7aeb15124ba2f5053a39eec39fb4b28649ce5723eaf9b0bbc",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x12AEb6d0403f804b3cb96f4661a2b4f30b9217d0",
+      "txHash": "0x1071a7f2e7ac0e061b01b015be0c99c8e9c4b8c1b3c75203918f28c5fd78029d",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x786F1Eb3A16d69BeF630b733b2Df969751db1008",
+      "txHash": "0x17afe77ca36d231af43e660e1dc0a234f98f62f1e9b2c7636da55965300b0f4f",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x6CBBa61bDFB13546FD574ee5CaEfCC5c06106578",
+      "txHash": "0xf59d885db9423799b491f120b1b0ca354b65422929617dc2d7402dd95e1ac6cc",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x5298A6A0BFA1413B8fa8f4596CCd7493Ac502d0E",
+      "txHash": "0x21cb5b90cc8d64b925c63851b8dd9374f1a76c38012675c2d1a0cdcb31867741",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xCC21cf54f9E5A8b4746c7DAc920b596505Fc84F4",
+      "txHash": "0x9e87f8d612b71656e481cfd2c1f2b4f8ae3f56a0378d5872ae349b15e1109e74",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x7B0185450c4ED445d2F58fc3cde3Ab10d9e963cd",
+      "txHash": "0x229b5495feb89fd37c66a1bf992f1ca1419f849b656cdcea2241e24eb7f011b4",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xd9f4a42FE70FF23d0b6863F313AA0a68DFEf43bA",
+      "txHash": "0x081b7396f19f864371ca006d1443c65067751800a91c5c0edf7a483fb66eee99",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xFe88b8d5138927237dF90500e53DA022DbCDB6ff",
+      "txHash": "0x0b0843af6d68f0d10bd63a4efdefb56f72a118b5c7b1d45a0cef387c1cfdf860",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x324A48391E6Ea9C7ed83c1d934BB709d94690e03",
+      "txHash": "0xbca8d344f9f6f3b69fca55a864e9f84215bbb33bdfb7cd2102cad8abb8bf71b1",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x64C50bd2DB7FAEa7f6805f2B175D1eA8DD760247",
+      "txHash": "0xf918dad9452cb3f425b37be93d87c61e42f8adce7f8f30fc17172437578105a5",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x652562E11C29FDd228Ad231788445801a3649579",
+      "txHash": "0x722cd22684cce9deaa4c5385c293f55c689fe0bdf54c0b337734bc825e8ac98c",
+      "kind": "transparent"
+    }
+  ],
+  "impls": {
+    "925ac28bbf9839bef9f86ec5b41ec3785d913ce448340c01b8751ecba4a82e6f": {
+      "address": "0xEe158279373efc4BD2CcC4AdB0A9900fBbA94012",
+      "txHash": "0xae292c38ebfed391cbfaa6ab784c4073736728c770c11b467093f75ea73f52be",
+      "layout": {
+        "storage": [
+          {
+            "label": "_value",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:6"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    },
+    "cba9f8cf52e3c449631a04ea218a6cedcaf7c366669cfc257c89a008266c768f": {
+      "address": "0x5FD7A23c9381C62f2ec3a2194ACbB08b81306554",
+      "txHash": "0x08711c4ace9d981cecd00eec5742ba0c377b62d409ac7534f729b89ea14f8ab3",
+      "layout": {
+        "storage": [
+          {
+            "label": "_value",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:6"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    },
+    "732363d466eea74061ba4ed58c7b054da5ffa5eb655aa418bba3bd38f592f236": {
+      "address": "0x77A83Ea8d74d106aEdBe7130497f30Ccc8E96e0A",
+      "txHash": "0x5656116e9d58acbd5495e5f99101252f79eaafbcb996f981e4b95cd80990b0ce",
+      "layout": {
+        "storage": [
+          {
+            "label": "_value",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "BoxV2",
+            "src": "contracts\\BoxV2.sol:5"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    },
+    "2b4242cd40dccc6641f7b15c7d6e10436b3861aa2ef10d01eaf636783b45dfbc": {
+      "address": "0xceE33e11d54088417b933190271951e9D33C0d13",
+      "txHash": "0xa9c5ac781fa0d4fa949a6d7a2db4f81430480e4cc6ecfa3c8ee39923ed1aa5a2",
+      "layout": {
+        "storage": [
+          {
+            "label": "_value",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "BoxV2",
+            "src": "contracts\\BoxV2.sol:6"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    },
+    "781825a857bb704ec4f729b56f944744e7efc74f40073d797f7d47cba8875ef3": {
+      "address": "0x8E69F9bBCb6d4354EA2bc97D384494302A95331d",
+      "txHash": "0xe831402767326a3bb4531118dc489078d7fef5a1a8fa17954b897c7c91721cdf",
+      "layout": {
+        "storage": [
+          {
+            "label": "_value",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:6"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    },
+    "464f208ad83557ae36783c3c5b20a453c3c287233ec4392b2070774ee238d757": {
+      "address": "0x524110acA6CA672AFC453cae2f3E41a3363263cB",
+      "txHash": "0xc62f2b66fe2c8bd38c7ecaf4de1b480883e177debdb04db202cd278e08b4689f",
+      "layout": {
+        "storage": [
+          {
+            "label": "_value",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "BoxV2",
+            "src": "contracts\\BoxV2.sol:6"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    },
+    "9e31750bd555f9019e261047a9a148242600968c7343159dff810cf931aefea5": {
+      "address": "0x83EA7f5A82eEeD882ECCAC186B0C64Cf0D407f99",
+      "txHash": "0x87971ee2578efafb8ae66273d15f399ce56832009dc321ffb3545d647dea0736",
+      "layout": {
+        "storage": [
+          {
+            "label": "_value",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "BoxV2",
+            "src": "contracts\\BoxV2.sol:6"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    },
+    "e949095c4dc5c4ce2bcfce5e4dc3cdfe4a10262fd53ae4a26255ab040b109d7f": {
+      "address": "0x2722bc65Fe89a25d8F67C45533E4b754d23f3C58",
+      "txHash": "0x6656793430565adb25564f2cadd97924fd17d7b4bb60139e754af8085b0c53ad",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:39"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:44"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:87"
+          },
+          {
+            "label": "_paused",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_bool",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:29"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:102"
+          },
+          {
+            "label": "_balances",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:250"
+          },
+          {
+            "label": "_allowances",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:252"
+          },
+          {
+            "label": "_name",
+            "offset": 0,
+            "slot": "153",
+            "type": "t_string_storage",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:254"
+          },
+          {
+            "label": "_symbol",
+            "offset": 0,
+            "slot": "154",
+            "type": "t_string_storage",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:255"
+          },
+          {
+            "label": "_currentSupply",
+            "offset": 0,
+            "slot": "155",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:257"
+          },
+          {
+            "label": "_decimals",
+            "offset": 0,
+            "slot": "156",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:258"
+          },
+          {
+            "label": "maximumCappedSupply",
+            "offset": 0,
+            "slot": "157",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:260"
+          },
+          {
+            "label": "liquidityFee",
+            "offset": 0,
+            "slot": "158",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:262"
+          },
+          {
+            "label": "charityFee",
+            "offset": 0,
+            "slot": "159",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:263"
+          },
+          {
+            "label": "developerFee",
+            "offset": 0,
+            "slot": "160",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:264"
+          },
+          {
+            "label": "marketingFee",
+            "offset": 0,
+            "slot": "161",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:265"
+          },
+          {
+            "label": "burnFee",
+            "offset": 0,
+            "slot": "162",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:266"
+          },
+          {
+            "label": "maximumSwapableLiquidityAmount",
+            "offset": 0,
+            "slot": "163",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:268"
+          },
+          {
+            "label": "enableFee",
+            "offset": 0,
+            "slot": "164",
+            "type": "t_bool",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:270"
+          },
+          {
+            "label": "swapLiquidity",
+            "offset": 1,
+            "slot": "164",
+            "type": "t_bool",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:271"
+          },
+          {
+            "label": "UNISWAPV2ROUTER",
+            "offset": 2,
+            "slot": "164",
+            "type": "t_address",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:273"
+          },
+          {
+            "label": "uniswapV2Router",
+            "offset": 0,
+            "slot": "165",
+            "type": "t_contract(IUniswapV2Router02)1742",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:274"
+          },
+          {
+            "label": "uniswapV2Pair",
+            "offset": 0,
+            "slot": "166",
+            "type": "t_address",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:275"
+          },
+          {
+            "label": "charityWallet",
+            "offset": 0,
+            "slot": "167",
+            "type": "t_address",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:277"
+          },
+          {
+            "label": "developerWallet",
+            "offset": 0,
+            "slot": "168",
+            "type": "t_address",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:278"
+          },
+          {
+            "label": "marketingWallet",
+            "offset": 0,
+            "slot": "169",
+            "type": "t_address",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:279"
+          },
+          {
+            "label": "deadAddress",
+            "offset": 0,
+            "slot": "170",
+            "type": "t_address",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:280"
+          },
+          {
+            "label": "previousCharityFee",
+            "offset": 0,
+            "slot": "171",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:282"
+          },
+          {
+            "label": "previousBurnFee",
+            "offset": 0,
+            "slot": "172",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:283"
+          },
+          {
+            "label": "previousLiquidityFee",
+            "offset": 0,
+            "slot": "173",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:284"
+          },
+          {
+            "label": "previousDeveloperFee",
+            "offset": 0,
+            "slot": "174",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:285"
+          },
+          {
+            "label": "previousMarketingFee",
+            "offset": 0,
+            "slot": "175",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:286"
+          },
+          {
+            "label": "totalLiquidityFeeAmount",
+            "offset": 0,
+            "slot": "176",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:288"
+          },
+          {
+            "label": "totalCharityFeeAmount",
+            "offset": 0,
+            "slot": "177",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:289"
+          },
+          {
+            "label": "totalDeveloperFeeAmount",
+            "offset": 0,
+            "slot": "178",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:290"
+          },
+          {
+            "label": "totalMarketingFeeAmount",
+            "offset": 0,
+            "slot": "179",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:291"
+          },
+          {
+            "label": "totalBurnFeeAmount",
+            "offset": 0,
+            "slot": "180",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:292"
+          },
+          {
+            "label": "burnableFeeAmount",
+            "offset": 0,
+            "slot": "181",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:293"
+          },
+          {
+            "label": "swapableLiquidityFeeAmount",
+            "offset": 0,
+            "slot": "182",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:294"
+          },
+          {
+            "label": "taxDisableInLiquidity",
+            "offset": 0,
+            "slot": "183",
+            "type": "t_bool",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:549"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_contract(IUniswapV2Router02)1742": {
+            "label": "contract IUniswapV2Router02"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(address => mapping(address => uint256))"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)"
+          },
+          "t_string_storage": {
+            "label": "string"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    },
+    "d6b0a11abf1fdcf9f4a245891802cfe39354f5279b3455c03eabfba3277f7f27": {
+      "address": "0x5a928d0d4b2F59888426c459be54c8a9b65E1e43",
+      "txHash": "0x3206e65d5243294e66bf9c15803d115144a15f35c03bec2b7b9123d8298ff290",
+      "layout": {
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:39"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:44"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:36"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:87"
+          },
+          {
+            "label": "_paused",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_bool",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:29"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:102"
+          },
+          {
+            "label": "_balances",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:250"
+          },
+          {
+            "label": "_allowances",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:252"
+          },
+          {
+            "label": "_name",
+            "offset": 0,
+            "slot": "153",
+            "type": "t_string_storage",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:254"
+          },
+          {
+            "label": "_symbol",
+            "offset": 0,
+            "slot": "154",
+            "type": "t_string_storage",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:255"
+          },
+          {
+            "label": "_currentSupply",
+            "offset": 0,
+            "slot": "155",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:257"
+          },
+          {
+            "label": "_decimals",
+            "offset": 0,
+            "slot": "156",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:258"
+          },
+          {
+            "label": "maximumCappedSupply",
+            "offset": 0,
+            "slot": "157",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:260"
+          },
+          {
+            "label": "liquidityFee",
+            "offset": 0,
+            "slot": "158",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:262"
+          },
+          {
+            "label": "charityFee",
+            "offset": 0,
+            "slot": "159",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:263"
+          },
+          {
+            "label": "developerFee",
+            "offset": 0,
+            "slot": "160",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:264"
+          },
+          {
+            "label": "marketingFee",
+            "offset": 0,
+            "slot": "161",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:265"
+          },
+          {
+            "label": "burnFee",
+            "offset": 0,
+            "slot": "162",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:266"
+          },
+          {
+            "label": "maximumSwapableLiquidityAmount",
+            "offset": 0,
+            "slot": "163",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:268"
+          },
+          {
+            "label": "enableFee",
+            "offset": 0,
+            "slot": "164",
+            "type": "t_bool",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:270"
+          },
+          {
+            "label": "swapLiquidity",
+            "offset": 1,
+            "slot": "164",
+            "type": "t_bool",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:271"
+          },
+          {
+            "label": "UNISWAPV2ROUTER",
+            "offset": 2,
+            "slot": "164",
+            "type": "t_address",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:273"
+          },
+          {
+            "label": "uniswapV2Router",
+            "offset": 0,
+            "slot": "165",
+            "type": "t_contract(IUniswapV2Router02)1742",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:274"
+          },
+          {
+            "label": "uniswapV2Pair",
+            "offset": 0,
+            "slot": "166",
+            "type": "t_address",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:275"
+          },
+          {
+            "label": "charityWallet",
+            "offset": 0,
+            "slot": "167",
+            "type": "t_address",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:277"
+          },
+          {
+            "label": "developerWallet",
+            "offset": 0,
+            "slot": "168",
+            "type": "t_address",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:278"
+          },
+          {
+            "label": "marketingWallet",
+            "offset": 0,
+            "slot": "169",
+            "type": "t_address",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:279"
+          },
+          {
+            "label": "deadAddress",
+            "offset": 0,
+            "slot": "170",
+            "type": "t_address",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:280"
+          },
+          {
+            "label": "previousCharityFee",
+            "offset": 0,
+            "slot": "171",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:282"
+          },
+          {
+            "label": "previousBurnFee",
+            "offset": 0,
+            "slot": "172",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:283"
+          },
+          {
+            "label": "previousLiquidityFee",
+            "offset": 0,
+            "slot": "173",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:284"
+          },
+          {
+            "label": "previousDeveloperFee",
+            "offset": 0,
+            "slot": "174",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:285"
+          },
+          {
+            "label": "previousMarketingFee",
+            "offset": 0,
+            "slot": "175",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:286"
+          },
+          {
+            "label": "totalLiquidityFeeAmount",
+            "offset": 0,
+            "slot": "176",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:288"
+          },
+          {
+            "label": "totalCharityFeeAmount",
+            "offset": 0,
+            "slot": "177",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:289"
+          },
+          {
+            "label": "totalDeveloperFeeAmount",
+            "offset": 0,
+            "slot": "178",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:290"
+          },
+          {
+            "label": "totalMarketingFeeAmount",
+            "offset": 0,
+            "slot": "179",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:291"
+          },
+          {
+            "label": "totalBurnFeeAmount",
+            "offset": 0,
+            "slot": "180",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:292"
+          },
+          {
+            "label": "burnableFeeAmount",
+            "offset": 0,
+            "slot": "181",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:293"
+          },
+          {
+            "label": "swapableLiquidityFeeAmount",
+            "offset": 0,
+            "slot": "182",
+            "type": "t_uint256",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:294"
+          },
+          {
+            "label": "taxDisableInLiquidity",
+            "offset": 0,
+            "slot": "183",
+            "type": "t_bool",
+            "contract": "Box",
+            "src": "contracts\\Box.sol:549"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_contract(IUniswapV2Router02)1742": {
+            "label": "contract IUniswapV2Router02"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(address => mapping(address => uint256))"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)"
+          },
+          "t_string_storage": {
+            "label": "string"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
+    }
+  }
+}
